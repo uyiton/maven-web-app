@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.183.181.135:8081/repository/RBC_Interac_prod/</url>
+	      <url>http://35.183.181.135:8081/repository/mwa_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.183.181.135:8081/repository/RBC_Interac_Prod_Snapshot/</url>
+	      <url>http://35.183.181.135:8081/repository/mwa_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
