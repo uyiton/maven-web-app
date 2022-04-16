@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.98.85:8081/repository/practice-dev-releases/</url>
+	      <url>http://35.183.181.135:8081/repository/RBC_Interac_prod/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.98.85:8081/repository/practice-dev-snapshot/</url>
+	      <url>http://35.183.181.135:8081/repository/RBC_Interac_Prod_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
